@@ -24,7 +24,7 @@
 ## Установка
 `Extensions → Install extension`:
 ```
-[https://github.com/Ayrissa/SillyMap](https://github.com/Ayrissa/SillyMap.git)
+https://github.com/Ayrissa/SillyMap
 ```
 
 ## Настройка
